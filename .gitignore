@@ -1,5 +1,22 @@
+<<<<<<< HEAD
 # Environments
 .env
 .venv
 env/
 venv/
+=======
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.deb
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
+>>>>>>> fedee5b98489dbee42374d1c53a49065a6987eb0
